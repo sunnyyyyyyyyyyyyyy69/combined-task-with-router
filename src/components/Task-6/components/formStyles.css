@@ -1,0 +1,19 @@
+.portfoliolabel {
+  color: #000000;
+}
+.portfolioform {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 1rem;
+  margin: auto;
+  max-width: 600px;
+}
+.portfolioform input,
+.portfolioform textarea {
+  margin-bottom: 1rem;
+  padding: 10px 18px;
+  font-size: 1.2rem;
+  background-color: rgba(139, 139, 139, 0.1);
+  border-color: rgba(255, 255, 155, 0.1);
+  color: #060606;
+}
